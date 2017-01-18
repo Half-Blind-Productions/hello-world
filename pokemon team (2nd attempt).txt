@@ -2,3 +2,4 @@ pokemon Teams for each game version
 
 
 Blue			Red 			Yellow
+			Charmander
