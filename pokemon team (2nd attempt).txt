@@ -2,6 +2,8 @@ pokemon Teams for each game version
 
 
 Blue			Red 			Yellow
+Blastoise
+Blue			Red 			Yellow
 			Charizard
 Blue			Red 			Yellow
 						
