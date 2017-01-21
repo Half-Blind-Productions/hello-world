@@ -1,3 +1,6 @@
 states of matter
 
 Classical		advanced		exotic
+			Plasma
+			Superfluid
+		Bose einstin condensate
