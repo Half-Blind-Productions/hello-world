@@ -1,0 +1,17 @@
+states of matter
+
+Classical		advanced		exotic
+solid
+liquid
+gas
+Classical		advanced		exotic
+			Plasma
+			Superfluid
+		Bose einstin condensate
+Classical		advanced		exotic
+						strange(nutronium)
+						metal water (theoretical)
+						dark
+						anti
+						gluon quark Plasma
+						
