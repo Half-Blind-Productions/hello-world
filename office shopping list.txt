@@ -1,3 +1,3 @@
 meat				Dairy				fruits
-beef				Milk
-Chicken				yogurt
+beef				Milk				apples 
+Chicken				yogurt				grapes
