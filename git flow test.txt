@@ -3,4 +3,7 @@ states of matter
 Classical		advanced		exotic
 						strange(nutronium)
 						metal water (theoretical)
+						dark
+						anti
+						gluon quark Plasma
 						
